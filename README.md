@@ -5,19 +5,13 @@ of a few key radio function that are needed for my remote radio control setup. T
 or band selection, these functions are performed using N1MM+. The spectrum display and turning built into N1MM+ provide very 
 nice visualization and frequency selection. This application is needed to provide a few critical capabilities:
 
-  •	On/Off control of the transceiver
-  
-  •	Mode selection
-
-  •	Filter selection
-
-  •	RF gain control
-
-  •	Power output control
-
-  •	Break-in control
-
-  •	CAT passthrough
+  -	On/Off control of the transceiver
+  -	Mode selection
+  -	Filter selection
+  -	RF gain control
+  -	Power output control
+  -	Break-in control
+  -	CAT passthrough
 
 
 The CAT passthrough allows the use of Virtual Serial Port Driver to create a connected pair of com ports. The iCOM app then 
