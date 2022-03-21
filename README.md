@@ -1,8 +1,8 @@
 # ICOM.py
-ICOM IC-7610 control program
+
 The iCOM application provides minimal control of an iCOM IC-7610 radio. This program is written in Python and allows control 
-of a few key radio function that are needed for my remote radio control setup. This control app does not provide frequency 
-or band selection, these functions are performed using N1MM+. The spectrum display and turning built into N1MM+ provide very 
+of a few key radio functions that are needed for my remote radio control setup. This control app does not provide frequency 
+or band selection, these functions are performed using N1MM+. The spectrum display and tuning built into N1MM+ provide very 
 nice visualization and frequency selection. This application is needed to provide a few critical capabilities:
 
   -	On/Off control of the transceiver
